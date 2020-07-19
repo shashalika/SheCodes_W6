@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 900;
+  margin: 0;
+}
+
+h2 {
+  font-weight: 900;
+  margin: 0;
+  font-size: 28px;
+  line-height: 28px;
+}
+
+h3 {
+  font-weight: 400;
+  margin: 0;
+  font-size: 20px;
+  padding-top: 30px;
+}
+
+h1 h2,
+h3 {
+  color: #231d3c;
+  text-align: left;
+}
+
+.search-form {
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card-img-top {
+  width: 70px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.card-img {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+}
